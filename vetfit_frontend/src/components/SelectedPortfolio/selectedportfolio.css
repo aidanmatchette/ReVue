@@ -1,0 +1,15 @@
+.selected-portfolio {
+    display: flex;
+    justify-content: center;
+}
+.delete-btn {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.search-portfolio {
+    margin-bottom: 20px;
+}
