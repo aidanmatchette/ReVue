@@ -37,7 +37,6 @@ out/
 .vscode/
 
 ## FRONT_END ##
-./vetfit_frontend/node_modules/
 ./vetfit_frontend/.idea/
 ./vetfit_frontend/.vscode/
 ./vetfit_frontend/node_modules/
