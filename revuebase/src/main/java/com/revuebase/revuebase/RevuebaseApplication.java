@@ -8,6 +8,7 @@ public class RevuebaseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RevuebaseApplication.class, args);
+		System.out.println("Test");
 	}
 
 }
